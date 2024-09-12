@@ -8,7 +8,7 @@
 * Self-Taught Coder
 * Demanding Perfectionist
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
+🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/kavinkumarnofficial)<br>
 📬 How to reach me: [kavinkumarnoffical@gmail.com](mailto:kavinkumarnoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
@@ -26,7 +26,7 @@
 
 _(click the button!)_
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kavinkumarnofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KavinKumar-N) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kavinkumarnofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
