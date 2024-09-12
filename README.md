@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to KavinKumar profile! <a href="https://github.com/Hirthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
 
@@ -9,7 +9,7 @@
 * Demanding Perfectionist
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)<br>
+📬 How to reach me: [kavinkumarnoffical@gmail.com](mailto:kavinkumarnoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
@@ -26,7 +26,7 @@
 
 _(click the button!)_
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hirthicksofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kavinkumarnofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
