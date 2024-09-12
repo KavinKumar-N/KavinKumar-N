@@ -52,21 +52,21 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 ### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
+![](https://github-profile-trophy.vercel.app/?username=KavinKumar-N&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
 
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KavinKumar-N&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KavinKumar-N&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinKumar-N&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
 
-- 👨💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+- 👨💻All of my projects are available at [https://github.com/KavinKumar-N](https://github.com/KavinKumar-N)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/Hirthick6)✨**
+✨[`@KavinKumar`](https://github.com/KavinKumar-N)✨**
 
 
 Projects: 
@@ -79,7 +79,7 @@ Projects:
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/KavinKumar-N/Startup-Company-Machine-Learning)
 
 ## Project Overview:
 
@@ -89,7 +89,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+###  If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 
 
 # Startup-Company-Machine-Learning with Streamlit Demo
@@ -149,7 +149,7 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
 
