@@ -2,7 +2,7 @@
 # Welcome to KavinKumar profile! <a href="https://github.com/KavinKumar-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://pixabay.com/gifs/flying-bird-feather-yellow-wings-7288/.gif" height=15% width=40% align="right">
-<ing scr="https://pixabay.com/gifs/flying-bird-feather-yellow-wings-7288/.gif"
+<ing scr="https://pixabay.com/gifs/flying-bird-feather-yellow-wings-7288/.gif" height=15% width=40% align="left">
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
