@@ -2,7 +2,7 @@
 # Welcome to KavinKumar profile! <a href="https://github.com/KavinKumar-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
-<img scr="https://pixabay.com/gifs/flying-bird-feather-yellow-wings-7288/.gif" height=15% width=40% align="right">
+<img scr="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height=15% width=40% align="right">
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
