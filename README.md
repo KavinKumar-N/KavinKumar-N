@@ -2,8 +2,7 @@
 # Welcome to KavinKumar profile! <a href="https://github.com/KavinKumar-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bobble.ai%2Fen%2Fgifs&psig=AOvVaw19kDAZ-ExzWZWqi2pRHEd8&ust=1726290798502000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjJqMOUv4gDFQAAAAAdAAAAABAE
-
+<ing scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhealthmatters.nyp.org%2Fhow-much-sugar-is-too-much%2F&psig=AOvVaw0prFfPpj_FYXYvIhqwP5YE&ust=1726291138345000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjij-qVv4gDFQAAAAAdAAAAABAK"
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
